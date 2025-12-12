@@ -239,13 +239,7 @@ To start the program, run the `main.py` script.
 
 To interface with the planning program, we created a simple graphical interface that allows creating the patient profile and getting a textual response in a few simple steps:
 
-**Patient profile creation screenshot**:
 
-**Patient habits screenshot**:
-
-**Patient pathologies screenshot**:
-
-**Response screenshot**:
 
 ---
 
